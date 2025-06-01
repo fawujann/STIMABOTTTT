@@ -12,41 +12,36 @@ Strategi greedy ini berprinsip pada pemilihan **diamond terdekat dengan nilai te
 -  Muhammad Fatahillah Farid / 123140203
 -  M. Reyshandi / 123140037
 
-  
+## Requirement dan Instalasi ⚙️
+- Python 3.10 atau lebih baru
+- Visual Studio Code
+- Docker Dekstop
+- OS: Windows / Linux / Mac  
 
 ## Cara Menjalankan Bot 💀
 
-1. To run one bot
+1. satu bot saja
 
     ```
     python main.py --logic Random --email=your_email@example.com --name=your_name --password=your_password --team etimo
     ```
 
-2. To run multiple bots simultaneously
+2. menjalankan beberapa bot bersamaan
 
-    For Windows
+   Windows
 
     ```
     ./run-bots.bat
     ```
 
-    For Linux / (possibly) macOS
+   Linux / macOS
 
     ```
     ./run-bots.sh
     ```
 
-    <b>Before executing the script, make sure to change the permission of the shell script to enable executing the script (for linux/macOS)</b>
+    <b>Sebelum menjalankan skrip, pastikan untuk mengubah izin file shell script agar dapat dieksekusi~</b>
 
     ```
     chmod +x run-bots.sh
     ```
-
-
-## Credits 🪙
-
-This repository is adapted from https://github.com/Etimo/diamonds2
-
-Some code in this repository is adjusted to fix some issues in the original repository and to adapt to the requirements of Algorithm Strategies course (IF2211), Informatics Undergraduate Program, ITB.
-
-©️ All rights and credits reserved to [Etimo](https://github.com/Etimo)
