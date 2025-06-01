@@ -7,22 +7,14 @@ Diamonds is a programming challenge. Program a bot and compete to get the highes
 -   [Project Specification](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit)
 -   [Get Started with Diamonds](https://docs.google.com/document/d/1L92Axb89yIkom0b24D350Z1QAr8rujvHof7-kXRAp7c/edit)
 
-## Installing Dependencies 🔨
+## Authors 🧟🧟
+- ** Muhammad Fauzan Naufal / 123140150
+- ** Muhammad Fatahillah Farid / 123140203
+- ** M. Reyshandi / 123140037
 
-1. Clone this repository and move to the root of this project's directory
+  
 
-    ```
-    git clone https://github.com/haziqam/tubes1-IF2110-bot-starter-pack.git
-    cd ./tubes1-IF2110-bot-starter-pack
-    ```
-
-2. Install dependencies
-
-    ```
-    pip install -r requirements.txt
-    ```
-
-## How to Run 💻
+## How to Run?
 
 1. To run one bot
 
