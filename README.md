@@ -2,7 +2,7 @@
 
 # Greedy for Diamonds!
 
-## 📌 Deskripsi Singkat
+## Deskripsi Singkat 📌
 Program ini merupakan bot otomatis untuk permainan pengumpulan diamond pada sebuah board. Bot menggunakan algoritma **greedy** yang selalu memilih langkah terbaik secara lokal berdasarkan **nilai diamond dan jarak** ke diamond tersebut.
 
 Strategi greedy ini berprinsip pada pemilihan **diamond terdekat dengan nilai tertinggi** yang masih bisa diambil sesuai kapasitas penyimpanan (maksimal 5 item).
@@ -14,7 +14,7 @@ Strategi greedy ini berprinsip pada pemilihan **diamond terdekat dengan nilai te
 
   
 
-## How to Run?
+## Cara Menjalankan Bot 💀
 
 1. To run one bot
 
