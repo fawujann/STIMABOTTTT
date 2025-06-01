@@ -8,9 +8,9 @@ Program ini merupakan bot otomatis untuk permainan pengumpulan diamond pada sebu
 Strategi greedy ini berprinsip pada pemilihan **diamond terdekat dengan nilai tertinggi** yang masih bisa diambil sesuai kapasitas penyimpanan (maksimal 5 item).
 
 ## Authors 🧟🧟
-- ** Muhammad Fauzan Naufal / 123140150
-- ** Muhammad Fatahillah Farid / 123140203
-- ** M. Reyshandi / 123140037
+-  Muhammad Fauzan Naufal / 123140150
+-  Muhammad Fatahillah Farid / 123140203
+-  M. Reyshandi / 123140037
 
   
 
