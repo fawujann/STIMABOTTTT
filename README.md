@@ -42,11 +42,6 @@ Diamonds is a programming challenge. Program a bot and compete to get the highes
     chmod +x run-bots.sh
     ```
 
-#### Note:
-
--   If you run multiple bots, make sure each emails and names are unique
--   The email could be anything as long as it follows a correct email syntax
--   The name, and password could be anything without any space
 
 ## Credits 🪙
 
