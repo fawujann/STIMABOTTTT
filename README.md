@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# 💎 Etimo Diamonds 2
+# Greedy for Diamonds!
 
 Diamonds is a programming challenge. Program a bot and compete to get the highest score. For more information:
 
