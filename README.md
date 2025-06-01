@@ -2,10 +2,10 @@
 
 # Greedy for Diamonds!
 
-Diamonds is a programming challenge. Program a bot and compete to get the highest score. For more information:
+## 📌 Deskripsi Singkat
+Program ini merupakan bot otomatis untuk permainan pengumpulan diamond pada sebuah board. Bot menggunakan algoritma **greedy** yang selalu memilih langkah terbaik secara lokal berdasarkan **nilai diamond dan jarak** ke diamond tersebut.
 
--   [Project Specification](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit)
--   [Get Started with Diamonds](https://docs.google.com/document/d/1L92Axb89yIkom0b24D350Z1QAr8rujvHof7-kXRAp7c/edit)
+Strategi greedy ini berprinsip pada pemilihan **diamond terdekat dengan nilai tertinggi** yang masih bisa diambil sesuai kapasitas penyimpanan (maksimal 5 item).
 
 ## Authors 🧟🧟
 - ** Muhammad Fauzan Naufal / 123140150
